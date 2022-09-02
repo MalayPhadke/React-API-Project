@@ -17,7 +17,7 @@ class App extends React.Component {
       currentPage: 1,
       currentMovie: null,
     }
-    this.apiKey = "71aa43d4f8ec06cd84b8fcbf7d27db15";
+    this.apiKey = "Your api key";
   }
 
   handleSubmitMovie = (e) => {
